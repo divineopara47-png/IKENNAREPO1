@@ -11,3 +11,9 @@ Lab 1 - Git and GitHub Repository
      - Repository creation
      - Branch management
      - Collaborative workflows
+
+
+   !!Aleksei is now collaborating with Ikenna!!
+   We will both make a great contribution to that project 
+
+   
